@@ -13,7 +13,7 @@ body{
     text-align: center;
     margin: 100px auto;
 }
-imput[type="text"]{
+.imput[type="text"]{
     height: 75px;
     width: 600px;
     background: white;
@@ -24,7 +24,7 @@ imput[type="text"]{
     border-radius: 5px;
     padding:  10px, 10px;
 }
-imput[type="submit"]{
+.imput[type="submit"]{
     height: 75px;
     width: 150px;
     background: white;
